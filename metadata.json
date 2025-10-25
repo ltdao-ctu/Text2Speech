@@ -1,0 +1,5 @@
+{
+  "name": "Text to Speech Converter",
+  "description": "An application that converts text from uploaded TXT or DOCX files into speech using Google's Gemini API. Users can select from various voices to generate and play the audio.",
+  "requestFramePermissions": []
+}
